@@ -40,7 +40,7 @@ This project aims to replicate the front-end interface of Flipkart.com, showcasi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kunal654/flipkart-clone.git
+   git clone https://github.com/sweta-0708/flipkart-clone.git
    ```
 
 2. Navigate to the project directory:
